@@ -1,2 +1,2 @@
 Flask==2.0.3
-# Flask-Authlib-Client==0.0.1
+Flask-Authlib-Client==0.0.1
