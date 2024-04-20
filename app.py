@@ -1,8 +1,8 @@
 from flask import Flask, redirect, url_for, session
-from authlib.integrations.flask_client import OAuth
+# from authlib.integrations.flask_client import OAuth
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'  # Change to a random secret in production
+# app.secret_key = 'your_secret_key'  # Change to a random secret in production
 
 # oauth = OAuth(app)
 
